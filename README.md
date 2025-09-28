@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,celery,go,java,cpp,c,cs,telegram&theme=dark" alt="Backend Technologies" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,go,java,cpp,c,cs,telegram&theme=dark" alt="Backend Technologies" />
 <br><br>
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,flutter&theme=dark" alt="Frontend Technologies" />
 <br><br>
@@ -39,18 +39,9 @@
 ## 📊 GitHub Analytics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=4rsen1x&theme=dark_lover&no-frame=true&no-bg=true&margin-w=15&column=4">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=4rsen1x&theme=flat&no-frame=true&no-bg=true&margin-w=15&column=4">
-</picture>
-
-<br><br>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=4rsen1x&layout=compact&theme=dark&border_color=30A14E&title_color=30A14E&text_color=ffffff&bg_color=0d1117&langs_count=8">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rsen1x&layout=compact&theme=default&border_color=30A14E&title_color=30A14E&langs_count=8">
 </picture>
-
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=4rsen1x&theme=dark&ring=30A14E&fire=30A14E&currStreakLabel=30A14E&background=0d1117&border=30A14E">
