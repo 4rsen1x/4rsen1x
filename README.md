@@ -31,7 +31,7 @@
 
 ## 📊 GitHub Analytics
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rsen1x&layout=compact&theme=dark&border_color=30A14E&title_color=30A14E&text_color=ffffff&bg_color=0d1117&langs_count=8&card_width=400" height="195" /></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=4rsen1x&theme=dark&ring=30A14E&fire=30A14E&currStreakLabel=30A14E&background=0d1117&border=30A14E" height="195" /></td>
