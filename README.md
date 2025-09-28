@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,fastapi,django,go,java,cpp,c,cs,telegram&theme=dark" alt="Backend Technologies" />
 <br><br>
@@ -30,15 +30,20 @@
 <div align="center">
 
 ## 📊 GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rsen1x&layout=compact&theme=dark&border_color=30A14E&title_color=30A14E&text_color=ffffff&bg_color=0d1117&langs_count=8&card_width=400" height="195" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4rsen1x&theme=dark&ring=30A14E&fire=30A14E&currStreakLabel=30A14E&background=0d1117&border=30A14E" height="195" />
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rsen1x&layout=compact&theme=dark&border_color=30A14E&title_color=30A14E&text_color=ffffff&bg_color=0d1117&langs_count=8&card_width=400" height="195" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=4rsen1x&theme=dark&ring=30A14E&fire=30A14E&currStreakLabel=30A14E&background=0d1117&border=30A14E" height="195" /></td>
+  </tr>
+</table>
 </div>
 
 ---
 
 <div align="center">
 
-## 🤝 Let's Connect
+### 🤝 Let's Connect
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=0d1117&labelColor=30A14E)](https://t.me/artemmahroviy)
 </div>
 
