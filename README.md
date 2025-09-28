@@ -16,13 +16,13 @@
 
 ### 🚀 Tech Stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,go,java,cpp,c,cs,telegram&theme=dark" alt="Backend Technologies" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,qt,go,java,cpp,c,cs,bots,dotnet&theme=dark" alt="Backend Technologies" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,flutter&theme=dark" alt="Frontend Technologies" />
+<img src="https://skillicons.dev/icons?i=react,redux,vue,ts,js,html,css,tailwind,flutter&theme=dark" alt="Frontend Technologies" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,supabase,firebase&theme=dark" alt="Databases" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,prometheus,grafana&theme=dark" alt="DevOps & Monitoring" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab,prometheus,grafana,nginx&theme=dark" alt="DevOps & Monitoring" />
 </div>
 
 ---
