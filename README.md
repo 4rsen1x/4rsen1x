@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 - 🔭 **Currently working on:** Building scalable backend systems with Python and modern web technologies
 - 🌱 **Learning:** Advanced system design patterns and cloud-native architectures
 - 💬 **Ask me about:** Python backend development, API design, Telegram bots, and DevOps practices
